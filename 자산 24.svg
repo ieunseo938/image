@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_2" data-name="레이어 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 54.57 29.39">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #0029aa;
+      }
+
+      .cls-3 {
+        stroke-width: .52px;
+      }
+
+      .cls-3, .cls-4 {
+        fill: none;
+        stroke: #0029aa;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        stroke-width: .57px;
+      }
+
+      .cls-2 {
+        font-family: Copperplate, Copperplate;
+        font-size: 5.82px;
+      }
+    </style>
+  </defs>
+  <g id="_레이어_1-2" data-name="레이어 1">
+    <g>
+      <g>
+        <rect class="cls-4" x="30.16" y="2.63" width="24.13" height="24.13" rx="5.52" ry="5.52"/>
+        <circle class="cls-4" cx="42.22" cy="14.69" r="6.66"/>
+        <circle class="cls-1" cx="42.22" cy="14.69" r="1.24"/>
+        <g>
+          <line class="cls-4" x1="42.22" y1="6.75" x2="42.22" y2="10.62"/>
+          <line class="cls-4" x1="42.22" y1="18.77" x2="42.22" y2="22.64"/>
+        </g>
+        <g>
+          <line class="cls-4" x1="50.17" y1="14.69" x2="46.29" y2="14.69"/>
+          <line class="cls-4" x1="38.15" y1="14.69" x2="34.27" y2="14.69"/>
+        </g>
+      </g>
+      <g>
+        <polyline class="cls-3" points="9.08 23.69 9.08 6.27 .62 14.73 17.43 14.73 18.03 14.73"/>
+        <text class="cls-2" transform="translate(7.45 27.8)"><tspan x="0" y="0">s</tspan></text>
+        <text class="cls-2" transform="translate(7.13 4.51)"><tspan x="0" y="0">n</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

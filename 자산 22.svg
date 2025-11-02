@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_2" data-name="레이어 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14.12 68.53">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3d2c00;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill: #ffd20d;
+      }
+
+      .cls-3 {
+        font-size: 6.6px;
+      }
+
+      .cls-3, .cls-6, .cls-7, .cls-8, .cls-4, .cls-5, .cls-9 {
+        font-family: NanumGothicBold, 'Nanum Gothic';
+      }
+
+      .cls-10 {
+        fill: #304749;
+      }
+
+      .cls-11 {
+        fill: #ffa52b;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: .19px;
+      }
+
+      .cls-6 {
+        font-size: 2.49px;
+      }
+
+      .cls-6, .cls-7, .cls-8, .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-7 {
+        font-size: 3.73px;
+      }
+
+      .cls-8 {
+        font-size: 2.28px;
+      }
+
+      .cls-4 {
+        font-size: .99px;
+      }
+
+      .cls-5 {
+        font-size: 1.53px;
+      }
+
+      .cls-9 {
+        font-size: 1.29px;
+      }
+
+      .cls-12 {
+        fill: #b2aeaf;
+      }
+    </style>
+  </defs>
+  <g id="_레이어_1-2" data-name="레이어 1">
+    <g>
+      <rect class="cls-12" x="4.68" y="50.76" width="4.75" height="17.78" rx="1.47" ry="1.47"/>
+      <rect class="cls-10" width="14.12" height="53.85" rx="3.31" ry="3.31"/>
+      <g>
+        <circle class="cls-11" cx="7.06" cy="46.62" r="4.99"/>
+        <text class="cls-6" transform="translate(4.82 45.92)"><tspan x="0" y="0">625</tspan><tspan x="-.83" y="2.99">6호선</tspan></text>
+      </g>
+      <rect class="cls-2" x="1.87" y="1.74" width="10.37" height="9.16" rx="2.36" ry="2.36"/>
+      <g>
+        <g>
+          <path class="cls-1" d="M9.8,6.81l-.49-3.73c-.05-.36-.4-.64-.79-.64h-2.93c-.39,0-.74.28-.79.64l-.49,3.73c-.07.55.28,1.03.8,1.03h3.89c.51,0,.87-.48.8-1.03ZM5.58,7.05c-.2,0-.37-.16-.37-.37s.16-.37.37-.37.37.16.37.37-.16.37-.37.37ZM8.53,7.05c-.2,0-.37-.16-.37-.37s.16-.37.37-.37.37.16.37.37-.16.37-.37.37ZM8.52,5.35h-2.92c-.38,0-.65-.22-.6-.48l.37-1.72c.04-.17.3-.3.59-.3h2.2c.29,0,.56.13.59.3l.37,1.72c.05.26-.21.48-.6.48Z"/>
+          <path class="cls-1" d="M7.73,4.99s-.02,0-.02,0c0,0,0-.01,0-.02v-1.28l-.51,1.28s0,.01-.01.01c0,0-.01,0-.03,0h-.19s-.03,0-.03,0c0,0,0,0-.01-.01l-.51-1.28v1.28s0,.02,0,.02c0,0-.01,0-.02,0h-.22s-.03,0-.03-.03v-1.7s0-.04,0-.04c0,0,.02,0,.04,0h.28s.02,0,.02,0c0,0,0,.01.01.02l.56,1.39.56-1.39s0-.02.01-.02c0,0,0,0,.02,0h.28s.04,0,.04,0c0,0,0,.02,0,.04v1.7s0,.03-.03.03h-.22Z"/>
+        </g>
+        <g>
+          <rect class="cls-1" x="5.62" y="6.38" width=".24" height="4.01" transform="translate(4.96 -1.74) rotate(30)"/>
+          <rect class="cls-1" x="8.26" y="6.38" width=".24" height="4.01" transform="translate(19.84 11.46) rotate(150)"/>
+        </g>
+        <rect class="cls-1" x="5.81" y="8.14" width="2.46" height=".22"/>
+        <rect class="cls-1" x="5.31" y="8.98" width="3.49" height=".22"/>
+      </g>
+      <text class="cls-3" transform="translate(5.06 17)"><tspan x="0" y="0">3</tspan></text>
+      <text class="cls-5" transform="translate(4.9 19.32)"><tspan x="0" y="0">출입구</tspan></text>
+      <text class="cls-4" transform="translate(5.03 20.61)"><tspan x="0" y="0">Entrance</tspan></text>
+      <text class="cls-9" transform="translate(3.98 38.48)"><tspan x="0" y="0">Daeheung</tspan></text>
+      <g>
+        <text class="cls-7" transform="translate(3.79 25.8)"><tspan x="0" y="0">대</tspan><tspan x="0" y="8.96">흥</tspan></text>
+        <text class="cls-8" transform="translate(8.07 25.78)"><tspan x="0" y="0">서</tspan><tspan x="0" y="2.73">강</tspan><tspan x="0" y="5.47">대</tspan><tspan x="0" y="8.2">앞</tspan></text>
+        <text class="cls-8" transform="translate(8.5 22.85) rotate(90)"><tspan x="0" y="0">(</tspan></text>
+        <text class="cls-8" transform="translate(9.85 35.61) rotate(-90)"><tspan x="0" y="0">(</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
